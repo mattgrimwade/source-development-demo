@@ -7,4 +7,11 @@
         <shortDescription>Error Label</shortDescription>
         <value>Error! Don&apos;t do that!</value>
     </labels>
+    <labels>
+        <fullName>Label_I_care_about</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Label I care about</shortDescription>
+        <value>This is a really good label that should be kept</value>
+    </labels>
 </CustomLabels>
