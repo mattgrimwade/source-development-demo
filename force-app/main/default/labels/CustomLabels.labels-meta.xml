@@ -7,4 +7,11 @@
         <shortDescription>Error Label</shortDescription>
         <value>Error! Don&apos;t do that!</value>
     </labels>
+     <labels>
+        <fullName>Success_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success Label</shortDescription>
+        <value>Your changed have been saved successfully</value>
+    </labels>
 </CustomLabels>
