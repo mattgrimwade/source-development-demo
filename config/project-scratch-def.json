@@ -1,13 +1,15 @@
 {
-  "orgName": "mattgrimwade company",
+  "orgName": "Ziipline Source Development",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
-  "settings": {
+  "features": ["EnableSetPasswordInApi","Knowledge","ServiceCloud","SalesUser","Entitlements"],
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
+    },
+    "knowledgeSettings": {
+      "enableKnowledge":true,
+      "enableLightningKnowledge":true
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
-  }
 }
